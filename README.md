@@ -52,6 +52,6 @@ The following image shows the web application's appearance and functionality:
 
 ## Links
 
-* [Horiseon GitHub Page](https://ilavine.github.io/code-refactoring/)
+* [Horiseon GitHub Page](https://ilavine.github.io/code-refactoring-Horiseon/)
 
-* [GitHub Repo](https://github.com/ilavine/code-refactoring/)
+* [GitHub Repo](https://ilavine.github.io/code-refactoring-Horiseon/)
